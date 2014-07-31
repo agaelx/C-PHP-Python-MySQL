@@ -4,14 +4,6 @@
 //
 //  Created by Uriel Garcia on 31/07/14.
 //  Copyright (c) 2014 Agarcia. All rights reserved.
-//
-//
-//  main.cpp
-//  SocketClient
-//
-//  Created by Uriel Garcia on 30/07/14.
-//  Copyright (c) 2014 Agarcia. All rights reserved.
-//
 
 //TCP CLIENT
 #include <iostream>
