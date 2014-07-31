@@ -1,7 +1,7 @@
 C-PHP-Python-MySQL
 ==================
 
-Quick samples on how to interconnect a C++ socket client into a PHP server with sockets in order to save data into MySQL. with a PHP HTTP Rest Service to retrieve the DB data (Useful for Electronics that use C++)
+Quick samples on how to interconnect a C++ or Python socket client into a PHP server with sockets in order to save data into MySQL. with a PHP HTTP Rest Service to retrieve the DB data (Useful for Electronics that use C++)
 
 HELP:
 
