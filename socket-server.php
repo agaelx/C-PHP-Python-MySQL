@@ -62,8 +62,9 @@ do {
                 mysqli_close($conn);
               }
             }
-
-              socket_write($msgsock, $buf, strlen($buf));
+				
+			  $msg = "\nOK\n";
+    		  socket_write($msgsock, $msg, strlen($msg));
               error_log("CLIENT:" . $buf, 0);
           }
         }
